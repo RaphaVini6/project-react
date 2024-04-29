@@ -1,0 +1,31 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+    color: #333;
+    background-image: url ("./img/image.png")
+background-size: cover;
+    backgroud-position: center;
+}
+
+.app{
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #efefe4;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 10px;
+}
+
